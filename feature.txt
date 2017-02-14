@@ -5,3 +5,4 @@ from origin (local) against one from master on git-hub.
 
 Edited from github - so as to compare using diff. And added a comment - doh!
 
+added ssh key to github acct.
