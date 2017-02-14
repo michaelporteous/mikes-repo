@@ -1,6 +1,10 @@
 Adding text to make this file different to test git diff.
 
+<<<<<<< HEAD
 
 Adding a second line for change - I want to figure out how to 'diff' or compare two same files - one 
 from origin (local) against one from master on git-hub.
 
+=======
+Edited from github - so as to compare using diff. And added a comment - doh!
+>>>>>>> ca1c2b8c8a7c9f1ecb0442a259be7021daafc971
