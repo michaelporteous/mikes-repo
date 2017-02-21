@@ -1,3 +1,4 @@
 added some useless text to this file
 
 added more txt from Zorin
+Add text via redirect on the cli
