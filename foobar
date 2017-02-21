@@ -1,0 +1,18 @@
+#!/bin/bash
+V1="Foo"
+V2="Bar"
+echo "Enter your name: "
+read name
+if [ "$V1" = "$V2" ]; then
+	echo Both variables are the same
+else
+	echo The variables are not the same
+fi
+echo
+echo $V1$V2 $name
+function hello {
+	echo Hello!
+}
+hello
+echo Foobar!
+echo $(date)
